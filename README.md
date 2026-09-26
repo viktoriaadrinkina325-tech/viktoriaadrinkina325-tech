@@ -1,16 +1,42 @@
-## Hi there 👋
+# Виктория Ядринкина — Junior Python-разработчик
 
-<!--
-**viktoriaadrinkina325-tech/viktoriaadrinkina325-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Привет! Я начинающий Python-разработчик: создаю ботов, интегрирую внешние API, работаю с базами данных и AI-моделями. Превращаю задачи в работающие продукты.
 
-Here are some ideas to get you started:
+## 📇 Контакты
+- 📧 Email: viktoriaadrinkina325@gmail.com
+- 💬 Telegram: [@viktoria_krsk](https://t.me/viktoria_krsk)
+- 🌐 GitHub: [viktoriaadrinkina325-tech](https://github.com/viktoriaadrinkina325-tech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Навыки
+- **Python**: ООП, REST и OpenAI-совместимые API, обработка ошибок и таймаутов
+- **Базы данных**: SQLite — схемы, хранение и выборки данных
+- **Боты**: VK Bottle (Long Poll API), консольные приложения, кнопочные меню
+- **AI-интеграции**: Chat Completions, reasoning-модели, локальные LLM через Ollama
+- **Инструменты**: Git/GitHub, venv, .env, VS Code, PowerShell
+
+## 📂 Проекты
+
+### ☔ Weather Bot — погодный бот ВКонтакте
+- **Задача:** быстрый доступ к погоде любого города прямо из мессенджера.
+- **Результат:** бот определяет координаты города, показывает текущую погоду, сравнивает два города, отвечает на кнопки и команды.
+- **Технологии:** Python, VK Bottle, API погоды и геокодинга, requests.
+- [Репозиторий](https://github.com/viktoriaadrinkina325-tech/weather-bot)
+
+### 💱 Currency Travel Bot — финансовый помощник путешественника
+- **Задача:** помощь путешественнику в управлении бюджетом в иностранных валютах.
+- **Результат:** «кошельки» по странам, конвертация по актуальному курсу, учёт трат, баланс в двух валютах, история операций в SQLite.
+- **Технологии:** Python, VK Bottle, exchangerate.host, SQLite, python-dotenv.
+- [Репозиторий](https://github.com/viktoriaadrinkina325-tech/currency-travel-bot)
+
+### 🧠 Text Agent — консольный AI-ассистент
+- **Задача:** ассистент с двумя режимами: обычный и «думающий».
+- **Результат:** диалог через OpenAI-совместимый API, сохранение истории, показ хода размышлений reasoning-модели и метрик токенов; полностью локальная работа через Ollama.
+- **Технологии:** Python, OpenAI SDK, Ollama (DeepSeek R1, Qwen 2.5), python-dotenv.
+- [Репозиторий](https://github.com/viktoriaadrinkina325-tech/text-agent)
+
+## 🎓 Образование
+- Курс «Python-разработчик», онлайн-школа — 2025–2026
+- Выполненные кейсы: интеграции API (погода, валюты), AI-ассистент с reasoning, оформление портфолио на GitHub
+
+## 📄 Резюме
+Подробное резюме — в файле [RESUME.md](RESUME.md)
